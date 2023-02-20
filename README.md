@@ -1,7 +1,7 @@
 ### Hello everyone! I'm Beatriz Pinto
 
-- 🔭 I’m currently working on 2 projects: MaxValueGame and Rental4You
-- 🌱 I’m currently learning Kotlin ,Flutter, C#, Asp.net Core and Java
+- 🔭 I’m currently working on 1 projects with Renault Cacia
+- 🌱 I’m currently learning NestJS and Angular
 
 <div align="center">
   <a href="https://github.com/BeatrizPinto1">
