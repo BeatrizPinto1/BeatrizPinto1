@@ -1,6 +1,6 @@
 ### Hello everyone! I'm Beatriz Pinto
 
-- 🔭 I’m currently working on 1 projects with Renault Cacia
+- 🔭 I’m currently working on 1 projects in Renault Cacia 
 - 🌱 I’m currently learning NestJS and Angular
 
 <div align="center">
