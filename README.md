@@ -1,7 +1,7 @@
 ### Hello everyone! I'm Beatriz Pinto
 
-- 🔭 I’m currently working on 1 projects in Renault Cacia 
-- 🌱 I’m currently learning NodeJS and React
+- 🔭 I’m currently working on my Master in Computer Engineering
+- 🌱 I’m currently learning Python ...
 
 <div align="center">
   <a href="https://github.com/BeatrizPinto1">
