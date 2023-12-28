@@ -1,7 +1,7 @@
 ### Hello everyone! I'm Beatriz Pinto
 
 - 🔭 I’m currently working on my Master in Computer Engineering
-- 🌱 I’m currently learning Python ...
+- 🌱 I’m currently learning Python and other programming languages
 
 <div align="center">
   <a href="https://github.com/BeatrizPinto1">
